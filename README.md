@@ -50,7 +50,6 @@ O projeto foi desenvolvido em dois Jupyter Notebooks, cada um focado em uma fase
 ## 📊 Análises Realizadas
 
 - Distribuição de acidentes por mês
-- Distribuição de acidentes por dia da semana
 - Comparativo por estados (UF)
 - Acidentes por tipo de pista
 - Relação entre atributos importantes (ex: tipo de pista vs estado)
